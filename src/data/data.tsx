@@ -106,7 +106,7 @@ export const aboutData: About = {
     {label: 'Location', text: 'Toronto ON, Canada', Icon: MapIcon},
     {label: 'Age', text: '30', Icon: CalendarIcon},
     {label: 'Nationality', text: 'Canadian', Icon: FlagIcon},
-    {label: 'Interests', text: 'Reading, Football', Icon: SparklesIcon},
+    {label: 'Interests', text: 'Reading, Football, Dancing', Icon: SparklesIcon},
     {label: 'Study', text: 'Singapore Institute of Technology', Icon: AcademicCapIcon},
     {label: 'Employment', text: 'Outdefine', Icon: BuildingOffice2Icon},
   ],
