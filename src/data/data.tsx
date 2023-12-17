@@ -103,12 +103,12 @@ export const aboutData: About = {
   description: `As a full-stack developer with 9+ years of experience in developing and maintaining web applications for various industries and domains, such as e-commerce, influencer marketing, and digital media. I have led and collaborated with cross-functional teams to deliver scalable, secure, and performant solutions, using a wide range of technologies and tools, such as React, Node.js, PHP, Laravel, AWS, Stripe, Jest, Cypress, and more. I have a strong foundation in developing end-to-end web applications, and I am always eager to take on new challenges and learn new skills and technologies.`,
 
   aboutItems: [
-    { label: 'Location', text: 'Toronto ON, Canada', Icon: MapIcon },
-    { label: 'Age', text: '30', Icon: CalendarIcon },
-    { label: 'Nationality', text: 'Canadian', Icon: FlagIcon },
-    { label: 'Interests', text: 'Reading, Football', Icon: SparklesIcon },
-    { label: 'Study', text: 'Singapore Institute of Technology', Icon: AcademicCapIcon },
-    { label: 'Employment', text: 'Outdefine', Icon: BuildingOffice2Icon },
+    {label: 'Location', text: 'Toronto ON, Canada', Icon: MapIcon},
+    {label: 'Age', text: '30', Icon: CalendarIcon},
+    {label: 'Nationality', text: 'Canadian', Icon: FlagIcon},
+    {label: 'Interests', text: 'Reading, Football', Icon: SparklesIcon},
+    {label: 'Study', text: 'Singapore Institute of Technology', Icon: AcademicCapIcon},
+    {label: 'Employment', text: 'Outdefine', Icon: BuildingOffice2Icon},
   ],
 };
 
@@ -403,6 +403,6 @@ export const contact: ContactSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-  { label: 'Github', Icon: GithubIcon, href: 'https://github.com/mkdev11' },
-  { label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/' },
+  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/mkdev11'},
+  {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/'},
 ];
