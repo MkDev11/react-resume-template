@@ -20,7 +20,7 @@ const Footer: FC = memo(() => (
         <Socials />
       </div>
       
-      <span className="text-sm text-neutral-700">© Copyright {currentYear} Lucas Martin</span>
+      <span className="text-sm text-neutral-700">© Copyright {currentYear} Eduardo Hernandez</span>
     </div>
   </div>
 ));
